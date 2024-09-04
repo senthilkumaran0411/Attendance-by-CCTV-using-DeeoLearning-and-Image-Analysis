@@ -21,3 +21,14 @@ This project is a face recognition-based attendance system that uses OpenCV and 
 Contributions are welcome! Please feel free to submit a pull request or open an issue if you find any bugs or have any suggestions.
 
 
+Additional Feature for Bonus points: Proceed to ML. ops, and store the data into a DB So it can further processed and can reach a lot of devices
+
+## Conditions
+ the video quality you train the model should match with cetv. And No Machine Iguage should be used. Only Deep Learning should be used
+
+## Tips
+ Use opencv Face cascade to detect faces. You should train the model, for better quality output.
+
+TestCases: We will provide a video of 5 people walking inside the classroom. Grades depend on successful outcomes.
+
+
